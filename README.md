@@ -1,16 +1,49 @@
-## Hi there 👋
+# Андрей Аверин
 
-<!--
-**finnik82-75/finnik82-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI для бизнеса | RAG · Автоматизация · Управленческая аналитика**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Позиционирование
+
+20+ лет в ролях финансового и операционного директора. Строительство, торговля, общепит, недвижимость, СМИ. Сейчас — разработка AI-решений и автоматизация: от идеи до внедрения, с фокусом на измеримый результат для бизнеса.
+
+---
+
+### Чем занимаюсь
+
+| Направление | Результат для бизнеса |
+|-------------|------------------------|
+| **RAG-системы** | Доступ к корпоративным знаниям через естественный язык, меньше времени на поиск и согласование |
+| **AI-ассистенты и Telegram-боты** | Автоответы, сбор данных, уведомления и сценарии без разработки с нуля |
+| **Автоматизация (n8n)** | Связка систем, сокращение рутины в отчётности и операционке |
+| **Управленческая аналитика** | Понятные дашборды и отчёты для решений на основе данных |
+
+---
+
+### Стек
+
+**AI / LLM:** OpenAI API, RAG, LangChain  
+**Backend:** Python  
+**Automation:** n8n  
+**Хранилища и поиск:** ChromaDB, FAISS  
+
+---
+
+### Проекты
+
+- **rag-zmg-assistant** — RAG-ассистент по корпоративной базе знаний
+- **Portfolio** — кейсы и демо решений
+
+---
+
+### Контакты
+
+Email · Telegram · LinkedIn
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finnik82-75&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnik82-75&layout=compact)
