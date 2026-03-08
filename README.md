@@ -104,18 +104,6 @@ Backend + Web-интерфейс + Desktop-клиент
 
 ---
 
-### AI RAG Platform
-
-Модульная архитектура RAG-системы:
-
-- подключение базы знаний
-- управление памятью
-- расширяемая структура
-
-🔗 https://github.com/finnik82-75/ai-rag-platform
-
----
-
 ## GitHub активность
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finnik82-75&show_icons=true&theme=default)
