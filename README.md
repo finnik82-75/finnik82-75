@@ -91,8 +91,8 @@ Docker • REST API • JSON schema
 
 ## 📬 Контакты
 
-Telegram: https://t.me/your_username  
-Email: your@email.com  
+Telegram: @Monsieur_neuf 
+Email: intelfinpro@gmail.com 
 
 ---
 
